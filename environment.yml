@@ -1,0 +1,11 @@
+name: despot-stats
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - plotnine
+  - pandas
+  - xlrd
+  - openpyxl
+prefix: /home/z/miniconda3/envs/despot-stats
